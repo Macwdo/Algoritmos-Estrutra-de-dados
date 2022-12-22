@@ -1,14 +1,16 @@
 # Alguns Algoritmos e Estruturas de dados que tenho estudado e vou adicionando 
 
 ## C
-[Algoritmos]
+[Algoritmos]()
   -  Fatorial
-[Estruturas]
+
+[Estruturas]()
   -
 ## Python
-[Algoritmos]
+[Algoritmos]()
   - Fatorial
   - BinarySearch
+
 [Estruturas]()
   - Queue
   - Stack
