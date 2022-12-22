@@ -9,7 +9,7 @@
 [Algoritmos]
   - Fatorial
   - BinarySearch
-[Estruturas]
+[Estruturas]()
   - Queue
   - Stack
 
