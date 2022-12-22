@@ -3,9 +3,10 @@
 ## C
 [Algoritmos]()
   -  Fatorial
-
+  -  
 [Estruturas]()
   -
+
 ## Python
 [Algoritmos]()
   - Fatorial
